@@ -1,0 +1,10 @@
+C:\Users\aguss\source\repos\Clase18\Clase18\bin\Debug\Clase18.exe.config
+C:\Users\aguss\source\repos\Clase18\Clase18\bin\Debug\Clase18.exe
+C:\Users\aguss\source\repos\Clase18\Clase18\bin\Debug\Clase18.pdb
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.csproj.AssemblyReference.cache
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.form1.resources
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.Properties.Resources.resources
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.csproj.GenerateResource.cache
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.exe
+C:\Users\aguss\source\repos\Clase18\Clase18\obj\Debug\Clase18.pdb
