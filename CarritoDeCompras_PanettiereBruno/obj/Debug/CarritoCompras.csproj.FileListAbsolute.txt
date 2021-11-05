@@ -1,0 +1,11 @@
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.exe.config
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.exe
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\bin\Debug\CarritoCompras.pdb
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.csproj.CoreCompileInputs.cache
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.exe
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.pdb
+C:\Users\aguss\source\repos\CarritoCompras\CarritoCompras\obj\Debug\CarritoCompras.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\CarritoDeCompras_AgustinPeralta.-main\bin\Debug\CarritoCompras.exe.config
+C:\Users\bruno\Desktop\CarritoDeCompras_AgustinPeralta.-main\obj\Debug\CarritoCompras.exe
+C:\Users\bruno\Desktop\CarritoDeCompras_AgustinPeralta.-main\obj\Debug\CarritoCompras.pdb
+C:\Users\bruno\Desktop\CarritoDeCompras_AgustinPeralta.-main\obj\Debug\CarritoCompras.csprojResolveAssemblyReference.cache
